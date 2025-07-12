@@ -1,0 +1,35 @@
+{
+	"pattrstorage" : 	{
+		"name" : "pattr_tut_storage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Dials_bpatcher::Dial" : [ 43.0 ],
+					"Dials_bpatcher::Large Dial" : [ 35.100000000000001 ],
+					"Dials_bpatcher::Tiny Dial" : [ 0.45 ],
+					"bpatcher_2::Menu" : [ 1.0 ],
+					"bpatcher_2::Slider" : [ 79.0 ],
+					"bpatcher_2::Text Toggle" : [ 1.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"Dials_bpatcher::Dial" : [ 12.000000000000007 ],
+					"Dials_bpatcher::Large Dial" : [ 82.344094488188944 ],
+					"Dials_bpatcher::Tiny Dial" : [ 1.0 ],
+					"bpatcher_2::Menu" : [ 2.0 ],
+					"bpatcher_2::Slider" : [ 127.0 ],
+					"bpatcher_2::Text Toggle" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
